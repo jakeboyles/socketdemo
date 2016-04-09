@@ -1,0 +1,16 @@
+{
+  "name": "nodetest2b",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "~4.12.4",
+    "body-parser": "~1.15.0",
+    "ws": "0.4.x",
+    "http": "latest",
+    "ejs": "~2.4.1",
+    "giphy-api": "^1.1.15"
+  }
+}
